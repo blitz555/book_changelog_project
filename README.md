@@ -9,7 +9,7 @@ Consequently, book sellers can benefit from less returned products.
 * Uses MVC design pattern to make components loosely coupled
 
 <p align="center">
-  <img src="UI.PNG" width="300">
+  <img src="UI.PNG" width="800">
 </p>
 
 ### Getting started
@@ -21,7 +21,7 @@ java Controller
 ```
 
 ### Future work
-Further work could provide:
+Further work could include:
 1. Use a modern JavaScript framework to replace GWT
 2. Adding a database for archiving table of contents for each book
 3. More intuitive user facing components
