@@ -1,0 +1,180 @@
+﻿
+Chapter 1 Introduction 1
+
+1.1 Some Basic Mathematical Models; Direction Fields 1
+
+1.2 Solutions of Some Differential Equations 10
+
+1.3 Classification of Differential Equations 19
+
+1.4 Historical Remarks 26
+
+Chapter 2 First Order Differential Equations 31
+
+2.1 Linear Equations; Method of Integrating Factors 31
+
+2.2 Separable Equations 42
+
+2.3 Modeling with First Order Equations 51
+
+2.4 Differences Between Linear and Nonlinear Equations 68
+
+2.5 Autonomous Equations and Population Dynamics 78
+
+2.6 Exact Equations and Integrating Factors 95
+
+2.7 Numerical Approximations: Euler’s Method 102
+
+2.8 The Existence and Uniqueness Theorem 112
+
+2.9 First Order Difference Equations 122
+
+Chapter 3 Second Order Linear Equations 137
+
+3.1 Homogeneous Equations with Constant Coefficients 137
+
+3.2 Solutions of Linear Homogeneous Equations; the Wronskian 145
+
+3.3 Complex Roots of the Characteristic Equation 158
+
+3.4 Repeated Roots; Reduction of Order 167
+
+3.5 Nonhomogeneous Equations; Method of Undetermined Coefficients 175
+
+3.6 Variation of Parameters 186
+
+3.7 Mechanical and Electrical Vibrations 192
+
+3.8 Forced Vibrations 207
+
+Chapter 4 Higher Order Linear Equations 221
+
+4.1 General Theory of nth Order Linear Equations 221
+
+4.2 Homogeneous Equations with Constant Coefficients 228
+
+4.3 The Method of Undetermined Coefficients 236
+
+4.4 The Method of Variation of Parameters 241
+
+Chapter 5 Series Solutions of Second Order Linear Equations 247
+
+5.1 Review of Power Series 247
+
+5.2 Series Solutions Near an Ordinary Point, Part I 254
+
+5.3 Series Solutions Near an Ordinary Point, Part II 265
+
+5.4 Euler Equations; Regular Singular Points 272
+
+5.5 Series Solutions Near a Regular Singular Point, Part I 282
+
+5.6 Series Solutions Near a Regular Singular Point, Part II 288
+
+5.7 Bessel’s Equation 296
+
+Chapter 6 The Laplace Transform 309
+
+6.1 Definition of the Laplace Transform 309
+
+6.2 Solution of Initial Value Problems 317
+
+6.3 Step Functions 327
+
+6.4 Differential Equations with Discontinuous Forcing Functions 336
+
+6.5 Impulse Functions 343
+
+6.6 The Convolution Integral 350
+
+Chapter 7 Systems of First Order Linear Equations 359
+
+7.1 Introduction 359
+
+7.2 Review of Matrices 368
+
+7.3 Systems of Linear Algebraic Equations; Linear Independence, Eigenvalues, Eigenvectors 378
+
+7.4 Basic Theory of Systems of First Order Linear Equations 390
+
+7.5 Homogeneous Linear Systems with Constant Coefficients 396
+
+7.6 Complex Eigenvalues 408
+
+7.7 Fundamental Matrices 421
+
+7.8 Repeated Eigenvalues 429
+
+7.9 Nonhomogeneous Linear Systems 440
+
+Chapter 8 Numerical Methods 451
+
+8.1 The Euler or Tangent Line Method 451
+
+8.2 Improvements on the Euler Method 462
+
+8.3 The Runge–Kutta Method 468
+
+8.4 Multistep Methods 472
+
+8.5 Systems of First Order Equations 478
+
+8.6 More on Errors; Stability 482
+
+Chapter 9 Nonlinear Differential Equations and Stability 495
+
+9.1 The Phase Plane: Linear Systems 495
+
+9.2 Autonomous Systems and Stability 508
+
+9.3 Locally Linear Systems 519
+
+9.4 Competing Species 531
+
+9.5 Predator–Prey Equations 544
+
+9.6 Liapunov’s Second Method 554
+
+9.7 Periodic Solutions and Limit Cycles 565
+
+9.8 Chaos and Strange Attractors: The Lorenz Equations 577
+
+Chapter 10 Partial Differential Equations and Fourier Series 589
+
+10.1 Two-Point Boundary Value Problems 589
+
+10.2 Fourier Series 596
+
+10.3 The Fourier Convergence Theorem 607
+
+10.4 Even and Odd Functions 614
+
+10.5 Separation of Variables; Heat Conduction in a Rod 623
+
+10.6 Other Heat Conduction Problems 632
+
+10.7 The Wave Equation: Vibrations of an Elastic String 643
+
+10.8 Laplace’s Equation 658
+
+Appendix A Derivation of the Heat Conduction Equation 669
+
+Appendix B Derivation of the Wave Equation 673
+
+Chapter 11 Boundary Value Problems and Sturm–Liouville Theory 677
+
+11.1 The Occurrence of Two-Point Boundary Value Problems 677
+
+11.2 Sturm–Liouville Boundary Value Problems 685
+
+11.3 Nonhomogeneous Boundary Value Problems 699
+
+11.4 Singular Sturm–Liouville Problems 714
+
+11.5 Further Remarks on the Method of Separation of Variables: A Bessel Series Expansion 721
+
+11.6 Series of Orthogonal Functions: Mean Convergence 728
+
+Answers to Problems 739
+
+Index 799
